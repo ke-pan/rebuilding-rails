@@ -1,6 +1,7 @@
 require "rulers/version"
 require "rulers/routing"
-require "rulers/array"
+require "rulers/util"
+require "rulers/dependencies"
 
 module Rulers
   # Your code goes here...
